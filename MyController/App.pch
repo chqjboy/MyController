@@ -1,0 +1,15 @@
+//
+//  App.pch
+//  MyController
+//
+//  Created by 陈前进 on 17/5/12.
+//  Copyright © 2017年 mycontroller. All rights reserved.
+//
+
+#ifndef App_pch
+#define App_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Global.h"
+#endif /* App_pch */
